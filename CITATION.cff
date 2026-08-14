@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: >-
+  If you use these datasets, please cite both the repository
+  and the associated journal article below.
+title: >-
+  Datasets for "A Wireless Autonomous Real-Time Underwater
+  Acoustic Positioning System"
+abstract: >-
+  Datasets used to evaluate the real-time acoustic tracking system
+  developed by the STELLA MARE laboratory, including performance
+  analyses of accuracy, reconstruction rate, and power consumption.
+type: dataset
+authors:
+  - family-names: Manicacci
+    given-names: François-Marie
+    affiliation: >-
+      UMS 3514 Plateforme Marine Stella Mare, Université de Corse
+      Pasquale Paoli, Biguglia, France
+    orcid: 'https://orcid.org/0000-0003-1569-583X'
+repository-code: 'https://github.com/fmmanicacci/sm_buoys'
+keywords:
+  - acoustic telemetry
+  - underwater positioning
+  - TDOA
+  - real-time tracking
+preferred-citation:
+  type: article
+  title: >-
+    A Wireless Autonomous Real-Time Underwater Acoustic
+    Positioning System
+  authors:
+    - family-names: Manicacci
+      given-names: François-Marie
+    - family-names: Mourier
+      given-names: Johann
+    - family-names: Babatounde
+      given-names: Chabi
+    - family-names: Garcia
+      given-names: Jessica
+    - family-names: Broutta
+      given-names: Mickaël
+    - family-names: Gualtieri
+      given-names: Jean-Sébastien
+    - family-names: Aiello
+      given-names: Antoine
+  journal: Sensors
+  year: 2022
+  month: 10
+  volume: 22
+  issue: 21
+  start: 8208
+  doi: 10.3390/s22218208
+  url: 'https://doi.org/10.3390/s22218208'
+  publisher:
+    name: MDPI
+  license: CC-BY-4.0
