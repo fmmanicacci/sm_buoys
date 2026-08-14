@@ -32,3 +32,11 @@ If you use these datasets, please cite the paper:
   doi     = {10.3390/s22218208}
 }
 ```
+
+## Reuse
+
+No licence is applied to these datasets. They are published here to
+satisfy the data availability requirement of the associated article.
+The datasets were produced within the UMS 3514 Stella Mare platform
+(Université de Corse Pasquale Paoli / CNRS); reuse enquiries should
+be addressed to the platform.
